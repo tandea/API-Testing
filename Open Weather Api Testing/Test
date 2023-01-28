@@ -1,1 +1,9 @@
-ccc
+Open Weather API Testing using Postman
+
+1. Test for temperature and city name.
+  a. Q parameter, city name = Cluj-Napoca
+  b. Appid = Generated API by Open Weather
+  c. Units = metric( by default it is set as "standard" which return degree's in Kelvin.
+  d. Expected results: Should return the city name as Cluj-Napoca, and temperature mesured in Celcius degrees.
+  e. Actual Results.
+  
