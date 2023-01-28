@@ -5,5 +5,12 @@ Open Weather API Testing using Postman
   b. Appid = Generated API by Open Weather
   c. Units = metric( by default it is set as "standard" which return degree's in Kelvin.
   d. Expected results: Should return the city name as Cluj-Napoca, and temperature mesured in Celcius degrees.
-  e. Actual Results: They are posted in https://github.com/tandea/API-Testing/tree/main/Open%20Weather%20Api%20Testing 
+  e. Actual Results: They are posted in https://github.com/tandea/API-Testing/tree/main/Open%20Weather%20Api%20Testing
+
+2.Steps to reproduce
+  a. Copy-paste the URL(https://api.openweathermap.org/data/2.5/weather?q=Cluj-Napoca&appid=cf2bd91098c042062bc06a5f0e936c92&units=metric) into Postman application
+  b. Press Send
+  c. 
+  
+
   
