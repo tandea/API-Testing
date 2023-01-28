@@ -1,1 +1,7 @@
+Open Weather API Testing using Postman
+
+1. Test for Cluj-Napoca city.
+  a. Q parameter = Cluj-Napoca
+  b. Appid = Generated API by Open Weather
+  c. Units = metric( by default it is set as "standard" which return degree's in Kelvin.
 
