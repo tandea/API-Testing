@@ -1,7 +1,3 @@
-Open Weather API Testing using Postman
+Here, I've listed some of my API tests, using Postman.
 
-1. Test for Cluj-Napoca city.
-  a. Q parameter = Cluj-Napoca
-  b. Appid = Generated API by Open Weather
-  c. Units = metric( by default it is set as "standard" which return degree's in Kelvin.
-
+I've tested Open Weather API, Coinmarketcap API and News API.
